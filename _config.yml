@@ -1,7 +1,7 @@
 # Setup
 title:        Baiting's Homepage
 tagline:      Welcome to my homepage!
-baseurl:      "/jekyll-cayman-theme"
+baseurl:      "/math"
 paginate:     1
 locale:       "en"
 
